@@ -1,0 +1,2 @@
+ to push latest prisma changes: yarn prisma db push
+ to work with the prisma types locally : yarn prisma generate
